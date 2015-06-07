@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HenriPotier</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mettre_panier">Panier</string>
+    <string name="my_bag">Mon panier</string>
+    <string name="delete">Supprimer</string>
+    <string name="no_items">Aucun livre dans le panier</string>
+</resources>
